@@ -186,11 +186,7 @@ a,:after,:before, .owl-nav> div, input, svg path, svg rect,
 	color: #000;
 }
 .top-box{
-	background: url(../img/bg-Top.jpg) 50% 0 / 1920px no-repeat;
-	height: 780px;
-}
-.top-box{
-	background: url(../img/bg-Top.jpg) 50% 0 / 1920px no-repeat;
+	background: url(../img/bg-top.jpg) 50% 0 / 1920px no-repeat;
 	height: 780px;
 }
 .top-box .wr{
