@@ -586,8 +586,7 @@ a,:after,:before, .owl-nav> div, input, svg path, svg rect,
 }
 .program-box .text .img{
 	position: absolute;
-	left: -170px;
-   top: -150px;
+	right: 750px;
 }
 .program-box .text .h3{
 	font-weight: 600;
