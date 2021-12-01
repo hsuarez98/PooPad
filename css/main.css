@@ -191,7 +191,7 @@ a,:after,:before, .owl-nav> div, input, svg path, svg rect,
 }
 .top-box .wr{
 	height: 100%	;
-	background: url(../img/bg-Top1.png) 50% 100% / 1920px no-repeat;
+	background: url(../img/bg-top1.png) 50% 100% / 1920px no-repeat;
 }
 .top-box .text{
 	position: relative;
@@ -199,7 +199,7 @@ a,:after,:before, .owl-nav> div, input, svg path, svg rect,
 }
 .top-box .text .t-img{
 	position: absolute;
-	right: -90px;
+	right: -240px;
    top: 150px;
 }
 .top-box .text .btn{margin: 0;}
